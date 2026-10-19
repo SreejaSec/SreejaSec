@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Sreeja Dokala 👋
 
-<!--
-**SreejaSec/SreejaSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔐 Cybersecurity | Threat Intelligence | Digital Forensics
 
-Here are some ideas to get you started:
+I am an M.Sc. graduate in Digital Forensics & Information Security with hands-on experience in Cyber Threat Intelligence, OSINT research, IOC analysis, and incident response support.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about cybersecurity investigations, threat analysis, security monitoring, and digital forensics. I aim to continuously strengthen my technical skills and contribute to improving organizational security.
+
+### 🛡️ Skills & Tools
+
+- **Threat Intelligence:** OSINT, IOC analysis, threat actor profiling
+- **Security Operations:** Security monitoring concepts, log analysis, incident response fundamentals
+- **Security Frameworks:** MITRE ATT&CK, NIST CSF fundamentals
+- **Security Tools:** MISP, Splunk, Wireshark, Nmap, Kali Linux
+- **Digital Forensics:** Forensic investigation concepts and evidence handling
+- **Programming:** Python fundamentals
+
+### 📂 Projects
+
+My cybersecurity projects and technical documentation will be showcased here as they are completed.
+
+### 📚 Currently Learning
+
+- SIEM monitoring and alert investigation
+- Windows and Linux security log analysis
+- Threat hunting and incident response
+- Python for cybersecurity automation
+
+### 🎯 Career Interests
+
+- SOC Analyst
+- Cyber Threat Intelligence Analyst
+- Digital Forensics Analyst
+
+### 🌐 Connect With Me
+
+- **GitHub:** https://github.com/SreejaSec
